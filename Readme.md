@@ -6,4 +6,6 @@ Vamos modificar, para fazer um novo commit
 
 Já foi feito o segundo commit, agora estamos testando o DIFF
 
+Enviar para o Github
+
 
